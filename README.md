@@ -4,6 +4,10 @@
 
 #### Skills: Python, Django/Flask/FastAPI, DRF, SQL, Docker, CI/CD,  HTML/CSS.
 
+#### Сохрани, чтобы не потерять:
+#### e-mail: kanton2001@yandec.ru
+#### Telegram: @k0mpact
+
 ### 📈 **GitHub Статистика**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ant0ndk)](https://github.com/anuraghazra/github-readme-stats)
